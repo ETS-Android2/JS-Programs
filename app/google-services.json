@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "738523308222",
+    "firebase_url": "https://js-programs.firebaseio.com",
+    "project_id": "js-programs",
+    "storage_bucket": "js-programs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738523308222:android:a07dd0ca68cdc9f95a7eef",
+        "android_client_info": {
+          "package_name": "himanshu.app.jsprograms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738523308222-4bi9mu3qplrm52fpjbj3ee56l144tl4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "himanshu.app.jsprograms",
+            "certificate_hash": "77f6221f97a1612df571d1618dfa8578f078c063"
+          }
+        },
+        {
+          "client_id": "738523308222-1d1sf8l2drmt6khhbk3pjd87b9k6ht1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSZbgsk71d3S8hZfR1M2fJCNWnNrGpZZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738523308222-1d1sf8l2drmt6khhbk3pjd87b9k6ht1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

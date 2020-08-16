@@ -1,0 +1,2 @@
+rootProject.name='JS Programs'
+include ':app'
